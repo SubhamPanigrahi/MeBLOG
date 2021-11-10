@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is the completed source code for MeBlog.
+This is a VUE.JS based Blog application.
 
 ## Project setup
 
